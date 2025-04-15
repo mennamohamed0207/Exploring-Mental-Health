@@ -1,0 +1,9 @@
+1-Analyze your dataset
+    1-Initial Data Loading and Basic Statistics --> done
+    2-Data Visualization
+    3-Data Quality Analysis
+    4-Baseline Model (ZeroR)
+    5-Feature Analysis
+2-Apply at least 3 different machine learning methods
+3-You should apply all the concepts you learned in the course such as Generalization and
+Combating Overfitting.
