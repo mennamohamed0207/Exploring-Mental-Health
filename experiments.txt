@@ -3,7 +3,7 @@
     2-Data Visualization
         Create histograms for numerical features --> done
         Create bar plots for categorical features -->done
-        Use box plots to identify outliers
+        Use box plots to identify outliers   --> done
     3-Data Quality Analysis
     4-Baseline Model (ZeroR)
     5-Feature Analysis
