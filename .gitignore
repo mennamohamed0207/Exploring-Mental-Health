@@ -1,1 +1,3 @@
-dataset/
+./dataset/test.csv
+./dataset/train.csv
+./dataset/sample_submission.csv
